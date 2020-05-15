@@ -1,4 +1,4 @@
-# Group 7 Mini-Google
+# Distributed Search Engine
 ## Dependencies
 * java v1.8.0_222
 * spark v2.4.4
